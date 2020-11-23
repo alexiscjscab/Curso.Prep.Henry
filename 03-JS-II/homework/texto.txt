@@ -1,0 +1,8 @@
+El bucle for es una forma de hacer algo repetidamente 
+lo usamos cuando sabemos las vueltas que requiere dar.
+
+operadores logicos
+&& significa 'y' o 'and' cuando ambas son verdaderas
+|| significa 'O' o 'or' cundo alguna de las dos son verdaderas
+! significa que es lo contrario de alguna variable o operacion
+
