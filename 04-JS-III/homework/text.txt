@@ -1,0 +1,3 @@
+Array / Arreglos es como una lista de elementos que pueden contener distintos valores como string, numericos, null, booleanos , etc.
+
+pueden ser modificados, se puede agregar o quitar elementos, se puede comparar, se puede acceder a un sub indice del array para mostrarlos o operar con otro elemento.
