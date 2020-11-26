@@ -1,0 +1,6 @@
+Objeto : Un objeto es una coleccion de propiedades.. las propiedades se clasifican en nombres(claves) y un valor
+Propiedades: Es una caracteristica del objeto... se pueden añadir fuera del objeto y tambien pueden ser eliminadas
+Metodo: Es la capacidad que tiene un objeto para utilizar una funcion dentro de una propiedad
+For in: Es un ciclo que recorre el objeto. Tenemos que declarar una variable poner la palabra clave 'in' y el nombre del objeto y con el nombre del objeto y corchete la variable que declaramos podemos acceder al valor de las propiedad ejemplo : [.... objeto[clave] ......]
+Notacion de puntos: Para acceder a una propiedad dentro de un objeto con un punto.. [... objeto.nombrepropiedad ...]
+Notacion de corchetes: Accedemos a una propiedad con el metodo de los corchetes [... objeto[nombrepropiedad ...]]
