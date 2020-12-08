@@ -46,7 +46,7 @@ text-align: center;
 /* Acá va tu código */
 #ejercicioCinco{
 	display: flex;
-	justify-content: space-between;
+	justify-content: space-around;
 	align-items: center; 
 
 }
